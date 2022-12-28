@@ -10,3 +10,6 @@ My other contributions are
 Being a mod in the [Aliucord](https://github.com/Aliucord) server, kinda nyeh to put here but im active on discord 99% of my day  
 Indonesian Translator on [Aves](https://github.com/deckerst/Aves)  
 Making myself a little documentation repository called [Yet Another Pointless Repository](https://github.com/MeFinity/YAPR) which has like, maybe useful stuff? i dunno
+
+## Silly counter:
+![:mefinity](https://count.getloli.com/get/@:mefinity?theme=rule34)
