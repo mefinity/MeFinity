@@ -1,6 +1,6 @@
 ```math
-\ce{$\unicode[goombafont; opacity: 0.9; font-family: 'Comic Sans MS'; color: violet;]{x0000}$}
-\ce{$\unicode[goombafont; color: violet; font-family: 'Comic Sans MS'; opacity: 1.0;]{x0000}$}
+\ce{$\unicode[goombafont; z-index: -1; position: fixed; top: 0; left: 0; height: 999%; background-size: cover;  width: 999%; opacity: 0.7; background: url('https://http.cat/403.jpg'); background-repeat: no-repeat;]{x0000}$}
+\ce{$\unicode[goombafont; color:violet; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.8; background: var(--bgColor-default);]{x0000}$}
 ```
 # Hello There!
 
